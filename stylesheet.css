@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    color: red;
+    text-align: center;
+    border: white;
+    background-image: url(background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+
+}
+
+h1 {
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+h2 {
+    color: red;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+    text-align: center;
+}
+
+a {
+    color: red;
+    background-color: black;
+    text-align: center;
+}
+
+hr {
+    border: white;
+    height: 2px;
+    background-color: red;
+    max-width: 500px;
+    margin: 20px auto;
+}
+
+ul {
+    text-align: center;
+}
+
+ol {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
